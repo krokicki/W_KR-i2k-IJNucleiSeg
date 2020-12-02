@@ -74,11 +74,11 @@
       "command-line-flag": "--@id"
     }
   ],
-  "name": "NucleiSegmentation-ImageJ",
+  "name": "KR-i2k-IJNucleiSeg",
   "description": "Segment clustered nuclei using a laplacian filter, thresholding and a binary watershed transform",
   "schema-version": "cytomine-0.1",
   "container-image": {
-    "image": "neubiaswg5/w_nucleisegmentation-imagej",
+    "image": "krokicki/w_kr_i2k_ij-nucleiseg",
     "type": "singularity"
   }
 }
