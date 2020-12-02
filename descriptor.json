@@ -78,7 +78,7 @@
   "description": "Segment clustered nuclei using a laplacian filter, thresholding and a binary watershed transform",
   "schema-version": "cytomine-0.1",
   "container-image": {
-    "image": "krokicki/w_kr_i2k_ij-nucleiseg",
+    "image": "krokicki/w_kr-i2k-ijnucleiseg",
     "type": "singularity"
   }
 }
